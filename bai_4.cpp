@@ -5,6 +5,21 @@
 
 using namespace std;
 
+// void Insert(int k, string t, string l)
+// {
+//     // code here
+// }
+
+// void Delete(int k)
+// {
+//     // code here
+// }
+
+// void Infor(int k)
+// {
+//     // code here
+// }
+
 struct sv
 {
     int key;
@@ -104,6 +119,5 @@ int main()
     Infor(2);
     Delete(2);
     Infor(2);
-
     return 0;
 }
