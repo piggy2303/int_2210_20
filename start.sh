@@ -1,2 +1,2 @@
-g++ index.cpp -o index.out
+g++ bai_4.cpp -o index.out
 ./index.out
